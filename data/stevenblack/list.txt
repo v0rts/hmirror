@@ -1,3 +1,6 @@
+0.0.0.0.beeglivesex.com
+0.0.0.0.creative.hpyrdr.com
+0.0.0.0.hpyrdr.com
 01mspmd5yalky8.com
 0byv9mgbn0.com
 0latfee.ero-advertising.com
@@ -24,6 +27,7 @@ a.tvpage.com
 aata.ero-advertising.com
 abtest.mistat.intl.xiaomi.com
 abtest.mistat.xiaomi.com
+accountsx.bounceme.net
 acdn.adnxs.com
 acrdb.alphonso.tv
 acspaces.ero-advertising.com
@@ -71,6 +75,7 @@ ad8.banners.ero-advertising.com
 adf.ero-advertising.com
 adfpaces.ero-advertising.com
 adn.insight.ucweb.com
+ads-bi.zenkube.com
 ads.alphonso.tv
 ads.chacomedia.com
 ads.feedly.com
@@ -81,8 +86,10 @@ ads1.ero-advertising.com
 ads2.servebom.com
 ads30.adcolony.com
 ads5.truecaller.com
+adsaccount.appcpi.net
 adsances.ero-advertising.com
 adscan.yelabapp.com
+adservice.google.be
 adservice.google.co.in
 adservice.google.com.vn
 adsflame.com
@@ -99,6 +106,7 @@ adtekmedia.com
 adv.axiatraders.com
 adv.grandonmedia.com
 adv.sec.intl.miui.com
+advertising-cdn.dpgmedia.cloud
 adw.ero-advertising.com
 adwpaces.ero-advertising.com
 adzerk.com
@@ -109,6 +117,7 @@ agl.hotstar.com
 aicleaner.shouji.360.cn
 akashdayalgroups.com
 alliance4media.com
+allmygoodlife.com
 alog.umeng.com
 alog.umengcloud.com
 amarktflow.com
@@ -123,12 +132,13 @@ analytics.adspaces.ero-advertising.com
 analytics.archive.org
 analytics.ero-advertising.com
 analytics.ff.avast.com
-analytics.jabong.com
+analytics.inlinemanual.com
 analytics.lk.api.ditto.com
 analytics.logsss.com
+analytics.modul.ac.at
 analytics.mopub.com
 analytics.pokki.com
-analytics.samdd.me
+analytics.xl.pt
 analyticsapi.bsbportal.com
 androidads23.adcolony.com
 anners.ero-advertising.com
@@ -148,6 +158,7 @@ api.c.avazunativeads.com
 api.cloudmobi.net
 api.collect.data.intl.miui.com
 api.d.xiaomi.com
+api.doubles.click
 api.eqmob.com
 api.grandonmedia.com
 api.hybrid.intl.xiaomi.com
@@ -182,6 +193,7 @@ assets.alphonso.tv
 assets.bilsyndication.com
 ata.ero-advertising.com
 authbe.sec.intl.miui.com
+aws-update.net
 bacr.com.pk
 ban3ers.ero-advertising.com
 ban4ers.ero-advertising.com
@@ -227,6 +239,7 @@ c.webengage.com
 c2i-cdn.startappnetwork.com
 camsoda.com
 canuck-method.com
+capitana.onthewifi.com
 care.help.360.cn
 castoola.com
 castoola.tv.lan
@@ -238,11 +251,14 @@ ccc.sys.miui.com
 cdn-jp.gsecondscreen.com
 cdn-settings.segment.com
 cdn.ad.xiaomi.com
+cdn.admitad-connect.com
 cdn.auditude.com
 cdn.beginads.com
 cdn.bitmedianetwork.com
 cdn.castoola.com
 cdn.discoveryad.castoola.tv
+cdn.doublesclick.me
+cdn.insurads.com
 cdn.moengage.com
 cdn.mxpnl.com
 cdn.tsyndicate.com
@@ -265,8 +281,10 @@ console.rtk.io
 consumerproductsusa.com
 convhkmp.taboola.com
 convlatbmp.taboola.com
+corp-github.com
 cosiloon.com
 cradver.livejasmin.com
+creative.hpyrdr.com
 cvent.axiatraders.com
 cws.conviva.com
 cyhners.ero-advertising.com
@@ -288,9 +306,11 @@ date.ero-advertising.com
 dats.ero-advertising.com
 datt.ero-advertising.com
 daua.ero-advertising.com
+daunteegyptian.pro
 dava.ero-advertising.com
 dawa.ero-advertising.com
 dbta.ero-advertising.com
+ddl.okgoodmobi.com
 degea.alphonso.tv
 demo.alphonso.tv
 deshmedia.com
@@ -305,10 +325,12 @@ dobre-programy.pl
 dobre-programy.xyz
 dobreprogramy.pro
 doublepimpads.com
+drive.staticcontent.kz
 dsp.face2trade.com
 dsw44z5igdmmbo.com
 dts.startappservice.com
 dtta.ero-advertising.com
+dynamics.ddnsking.com
 e-hpaces.ero-advertising.com
 e-ssl.apsalar.com
 e.ad.xiaomi.com
@@ -320,6 +342,7 @@ embed.sendtonews.com
 enabler.datalake.mediaset.it
 enatimedia.com
 engine.bitmedianetwork.com
+ensure-https.com
 ers.ero-advertising.com
 es.ero-advertising.com
 eul.s.360.cn
@@ -365,11 +388,26 @@ g0l32.queensiteforapp.com
 gamblerush.com
 gata.ero-advertising.com
 geofence.sys.miui.com
+git-hub.co
+git-secure-service.in
+githb.co
 gj.applog.uc.cn
 gj.track.uc.cn
 gjapplog.uc.cn
 gjtrack.ucweb.com
 globalapi.ad.xiaomi.com
+globalpagee-prod-webex.com
+glt-app.net
+glt-hub.com
+glthub.co
+glthub.info
+glthub.net
+glthubb.info
+glthube.app
+glthubs.com
+glthubs.info
+glthubs.net
+glthubse.info
 go.ad1data.com
 goodblock.gladly.io
 goooooooooogle.com
@@ -382,6 +420,8 @@ gtsdk.batmobi.net
 gum.criteo.com
 gurgle.zdbb.net
 h-sdk.online-metrix.net
+hadslims.com
+hadsoks.com
 hata.ero-advertising.com
 hb-analytics.hotstar.com
 hb.brainlyads.com
@@ -389,6 +429,7 @@ hbbtv.mediaset.net
 hdnewporn.com
 hexagram.rtk.io
 hitboom.net
+host.moresecurity.kz
 hosted.stats.com
 hosted.stats.com.edgesuite.net
 hostingfreelife.com
@@ -400,6 +441,7 @@ i1.dl-ad.com
 ibeat.indiatimes.com
 icloud.com-locations.in
 idspaces.ero-advertising.com
+ikezijik.ga
 imeds.ero-advertising.com
 imp.startappservice.com
 imprhkmp.taboola.com
@@ -410,13 +452,13 @@ in-starlive-preroll.videoplaza.tv
 in-starlive.videoplaza.tv
 in-viacom18.videoplaza.tv
 in8.zog.link
-incoming.telemetry.mozilla.org
 indiaonclick.com
 init.startappservice.com
 insight.ucweb.com
 insights.alphonso.tv
 instory-log.ucnews.ucweb.com
 intext.ero-advertising.com
+invoke.ml
 ioads.ero-advertising.com
 iplogger.com
 iplogger.ru
@@ -432,6 +474,7 @@ kds.ero-advertising.com
 koudas.alphonso.tv
 kt5850pjz0.com
 kuikdelivery.com
+kulkarni.bounceme.net
 kushat.roboinside.me
 l-v1.presage.io
 ladsup.com
@@ -450,10 +493,14 @@ logitechlogitechglobal.112.2o7.net
 logs.gaana.com
 logserver.insight.ucweb.com
 logx.optimizely.com
+lp.cooktracking.com
 ma1310-r.analytics.edgekey.net
 ma312-r.analytics.edgesuite.net
 mackeeperapp.zeobit.com
 manifest.localytics.com
+maper.info
+march262020.best
+march262020.com
 market.moonicorn.network
 marketingplatform.google.com
 mata.ero-advertising.com
@@ -467,6 +514,8 @@ media.complex.com
 media.rtk.io
 mediabarterexchange.com
 mediadirectx.com
+messaging.insurads.com
+metric.onlinefonts.kz
 metrics.adage.com
 miami.ero-advertising.com
 mktg.tvpage.com
@@ -474,6 +523,7 @@ mobile.pipe.aria.microsoft.com
 mobileads.ero-advertising.com
 montrealgazette.stats.com
 movieads.ero-advertising.com
+msg-0209861dced41c7ef.insurads.com
 msmetrics.ws.sonos.com
 mt.rtmark.net
 mvconf.cloud.360safe.com
@@ -501,6 +551,7 @@ nj.thor.rtk.io
 nl1.ero-advertising.com
 nl2.ero-advertising.com
 nners.ero-advertising.com
+nordfreevpn.com
 notification-browser.tools
 ns.zdbb.net
 nyc.thor.rtk.io
@@ -517,6 +568,7 @@ pakistanelevators.pk
 parentelement.tk
 pata.ero-advertising.com
 perf.mmstat.com
+pf4y2a54hx.com
 phpmyadmin.ads.ero-advertising.com
 phpmyadmin.ero-advertising.com
 phpmyadmin.js.ero-advertising.com
@@ -526,6 +578,8 @@ pixel.nc0.co
 pixel.onaudience.com
 pixel.realclever.com
 pl-v2.presage.io
+pl15117601.pvclouds.com
+pl15209890.pvclouds.com
 plaimedia.com
 platform.bidgear.com
 playamo30.com
@@ -591,6 +645,7 @@ segment.hotstar.com
 service.face2trade.com
 service.videoplaza.tv
 services.bilsyndication.com
+services.insurads.com
 sex-and-flirt.com
 sfo.thor.rtk.io
 sg.mmstat.com
@@ -598,6 +653,7 @@ sgp.o2o.api.xiaomi.com
 sin.ero-advertising.com
 sionicmedia.com
 sitecdn.tvpage.com
+slack-app.net
 smartlock.google.com
 smtp.ero-advertising.com
 soperson.com
@@ -612,13 +668,17 @@ sportsinteraction.com
 spottyfly.com
 sqm.telemetry.microsoft.com
 srv.pixel.parsely.com
+ssl-connection.net
 ssl.widgets.webengage.com
+sso-github.com
 ssp.ad.xiaomi.com
 ssp.face2trade.com
 sstats.adobe.com
 stage.tvpage.com
+start.apiforssl.com
 stat-c.maxthon.com
 static.clmbtech.com
+static.doublesclick.info
 static.youappi.com
 stats.adspaces.ero-advertising.com
 stats.bidgear.com
@@ -626,10 +686,13 @@ stats.data2.ero-advertising.com
 stats.ero-advertising.com
 stats.jpush.cn
 stats.speedclicks.ero-advertising.com
+status.search-sslkey-flush.com
+status.verifyingbycf.com
 stealthedeal.com
 steenbergen.web.ero-advertising.com
 stopify.co
 storeconfig.mistat.intl.xiaomi.com
+sts-github.com
 superlogout.github.io
 supload.com
 support.apple.com-notice.info
@@ -639,6 +702,7 @@ t.appsflyer.com
 taboola-d.openx.net
 tag.hockeycurve.com
 tags.news.com.au
+takehotprizzes3.live
 talk99.cn
 tcm.optica.ero-advertising.com
 telecommand.telemetry.microsoft.com
@@ -650,6 +714,7 @@ test.new.api.ad.xiaomi.com
 tex.ero-advertising.com
 theannoyingsite.com
 thebestgame2020.com
+thestar.serveblog.net
 thor.rtk.io
 thumb.ero-advertising.com
 thumbads.ero-advertising.com
@@ -670,9 +735,9 @@ tracking.ero-advertising.com
 tracking.i2w.io
 tracking.intl.miui.com
 tracking.lenzmx.com
-tracking.miui.com
 tradersbrokers.com
 trafforsrv.com
+tsl-github.com
 ttwitter.com
 tvads.alphonso.tv
 tvmds.tvpassport.com
@@ -687,7 +752,6 @@ unconf.adkmob.com
 urldelivery.com
 users.ero-advertising.com
 users.quantumgraph.com
-v10.events.data.microsoft.com
 v10c.events.data.microsoft.com
 vamsoupowoa.com
 vdtrack.com
@@ -695,7 +759,9 @@ videoplayer.vice.technology
 videos-bleepingcomputers-com.tvpagecdn.com
 vidutils.taboola.com
 villa.alphonso.tv
+vpn4test.net
 vrl.m.conviva.com
+vvavesltd.servebeer.com
 watches-my.stream
 watson.telemetry.microsoft.com
 wc-tracking.lavasoft.com
@@ -712,6 +778,7 @@ windowsphishingalert158.s3.amazonaws.com
 wks.ero-advertising.com
 woodpecker.uc.cn
 wow.ero-advertising.com
+ws38.watashinonegai.ru
 wsdk-files.webengage.com
 wsw.ero-advertising.com
 wta.ero-advertising.com
@@ -872,6 +939,7 @@ www.blog.intext.ero-advertising.com
 www.blog.roboinside.me
 www.btw.ero-advertising.com
 www.buzzclicks.com
+www.bywebsite.com
 www.camsoda.com
 www.canuck-method.com
 www.cata.ero-advertising.com
@@ -991,6 +1059,7 @@ www.ipuss.tv
 www.jackbootedroom.com
 www.js.ads.ero-advertising.com
 www.kds.ero-advertising.com
+www.koapkmobi.com
 www.kushat.roboinside.me
 www.layers.ero-advertising.com
 www.lecap-services.fr
@@ -1069,6 +1138,7 @@ www.s10.histas.ero-advertising.com
 www.s10.histats.com.ero-advertising.com
 www.s10paces.ero-advertising.com
 www.s7.adaces.ero-advertising.com
+www.saumweb.com
 www.sdkconfig.ad.intl.xiaomi.com
 www.sdkconfig.ad.xiaomi.com
 www.sebder.roboinside.me
@@ -1118,6 +1188,7 @@ www.tracking.ero-advertising.com
 www.tracking.intl.miui.com
 www.tracking.miui.com
 www.tradersbrokers.com
+www.traffclick.ru
 www.trafforsrv.com
 www.treasuredata.com
 www.ttwitter.com
@@ -1131,6 +1202,7 @@ www.vdtrack.com
 www.vidutils.taboola.com
 www.vrl.m.conviva.com
 www.wdata.ero-advertising.com
+www.webhaat.com
 www.websitecompany.org
 www.webstats.adspaces.ero-advertising.com
 www.wf.taboola.com
@@ -1167,6 +1239,7 @@ xn--minecrft-5za.com
 xn--srahah-bua.eu
 xn--srahah-bua.pl
 xn--yotu-1ra.be
+yfleur.myftp.org
 yip.su
 youshouldclick.us
 yun-static.soperson.com

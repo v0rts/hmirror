@@ -1694,9 +1694,6 @@ aimg.fc2.com
 aimg.media.net
 aio.lp.mydas.mobi
 aiqua-sdk.c.appier.net
-airbrake-github.airbrake.io
-airbrake-gitlab.airbrake.io
-airbrake.io
 airpush.com
 ais-api.applicaster.com
 ais.applicaster.com
@@ -2153,7 +2150,6 @@ api.adtrade.com
 api.advista.no
 api.adzmedia.com
 api.agoda.com.edgekey.net
-api.airbrake.io
 api.airpush.com
 api.alphonso.tv
 api.altamob.com
@@ -2264,7 +2260,6 @@ api.inmoji.com
 api.innomdc.com
 api.inrix.com
 api.insmobi.com
-api.instabug.com
 api.instalatorhbogo.siroccomobile.com
 api.instartlogic.com
 api.intentiq.com
@@ -3069,7 +3064,6 @@ beacon-streamer.saymedia.com
 beacon-us-iad2.rubiconproject.com
 beacon-us-iad3.rubiconproject.com
 beacon-us-west.rubiconproject.com
-beacon-v2.helpscout.net
 beacon.carfax.com
 beacon.clickequations.net.edgekey.net
 beacon.deepintent.com
@@ -3104,7 +3098,6 @@ beacon.us-west-2.prodaa.netflix.com
 beacon.viewlift.com
 beacon.zeroidtech.com
 beacon.ztgame.com
-beaconapi.helpscout.net
 beaconhub.iadmob.com
 beacons-production.elasticbeanstalk.com
 beacons-wxm0dh1cst4.stackpathdns.com
@@ -4028,7 +4021,6 @@ code.afsanalytics.com
 code.hot-mob.com
 code.metalocator.com
 code.revcontent.com
-code.tinypass.com
 code3.adtlgc.com
 coed-d.openx.net
 col.eum-appdynamics.com
@@ -4717,7 +4709,6 @@ defymedia-d.openx.net
 delb5.cxense.com
 delb8.cxense.com
 deliver.mobvista.com
-deliveroo.com.sg
 delivery-asia-northeast-1.openx.net
 delivery-asia-northeast-1.servedbyopenx.com
 delivery-cdn-cf.adswizz.com
@@ -5364,7 +5355,6 @@ execution-use.ci360.sas.com
 exp.360in.com
 exp.glispa.com
 exp.platform.glispa.com
-experience.tinypass.com
 experiment.appadhoc.com
 export02-au.imrworldwide.com
 ext-inv-cdn.presage.io
@@ -5721,7 +5711,6 @@ gj.track.uc.cn
 gjapplog.uc.cn
 gjtrack.ucweb.com
 glance.inmobi.com
-glassbox.aircanada.ca
 glassboxdigital.com
 glb-ads.atwola.adtechus.com
 glb-ads.legacy.adtechus.com
@@ -5931,7 +5920,6 @@ hbopenbid.pubmatic.com
 hbsdk-config.log.smaato.net
 hdj.baidu.com
 heartbeat.tv.kuyun.com
-heatmaprestapi-production.eu-west-1.elasticbeanstalk.com
 heavy-d.openx.net
 heliosiq.adtech.de
 helix.inmobi.com
@@ -6455,7 +6443,6 @@ insights.samsung.com
 insights.swrve.com
 inspectletws.herokuapp.com
 inspiredtaste-tagan.adlightning.com
-instabug.com
 installp.com
 installrevenue.com
 installtracker.com
@@ -6512,7 +6499,6 @@ iotanalytics.eu-central-1.amazonaws.com
 iotanalytics.eu-west-1.amazonaws.com
 iotapi.adups.com
 iownit.optimizely.com
-ip-api.com
 ip-geo.appspot.com
 ip-sec.casalemedia.com
 ip.casalemedia.com
@@ -7204,7 +7190,6 @@ maxonclick.com
 maytag.ecorebates.com
 mazu.3g.qq.com
 mb-cdn.stocard.de
-mb.cision.com
 mb.moatads.com
 mb.taboola.com
 mbe-cdn-staging.fyber.com
@@ -7566,7 +7551,6 @@ mobiletheory.com
 mobiletracker-env.us-east-1.elasticbeanstalk.com
 mobilewithsms.net
 mobilityware-d.openx.net
-mobilityware.helpshift.com
 mobimagic-d.openx.net
 mobimagic.com
 mobioffers.ru
@@ -8511,7 +8495,6 @@ platform.openx.com
 play.leadzuaf.com
 play.leadzutw.com
 play.rayjump.com
-play.tinypass.com
 playable-stats.mintegral.com
 playables-debug.lfstmedia.com
 playbill-d.openx.net
@@ -8771,7 +8754,6 @@ publisher.admicro.vn
 publisher.media.net
 publisher.piano.io
 publisher.taboola.com
-publisher.tinypass.com
 publisherdesk-d.openx.net
 publisherportal.doubleclick.net
 publishers.adtrue.com
@@ -8847,8 +8829,6 @@ qa-gmtdmp.mookie1.com
 qa-log.swrve.com
 qa-tracker.marinsm.com
 qa.ads.justpremium.com
-qa0.tinypass.com
-qa1.tinypass.com
 qaamgo-d.openx.net
 qat.comscore.com
 qc-static.coccoc.com
@@ -9273,7 +9253,6 @@ s-jsonp.moatads.com
 s-rtb.send.microadinc.com
 s-static.innovid.com
 s-us-east-1.axonix.com
-s-usc1c-nss-262.firebaseio.com
 s-video.innovid.com
 s.206ads.com
 s.ad4.com.cn
@@ -9510,7 +9489,6 @@ sdk.appsflyer.com
 sdk.appsflyer.tk
 sdk.apptentive.com
 sdk.apptimize.com
-sdk.arengu.com
 sdk.asapp.com
 sdk.atlasct.com
 sdk.brainhi.com
@@ -10193,7 +10171,6 @@ ssl.vungle.com
 ssl.zoomanalytics.co
 sslcdn.adstudiomobile.com
 sslclick.union.ucweb.com
-ssljscdn.airbrake.io
 ssltest2.branch.io
 sslwidget.criteo.com
 ssp-api.mobadvent.com
@@ -10565,7 +10542,6 @@ svc.analytics.nativeads.com
 svc.mobilexsoft.com
 sw.izooto.com
 sw.pushengage.com
-sw.tinypass.com
 swa.demdex.net
 sweatybettytracksdk.optimove.net
 sweeney-elb.appboy.com

@@ -13,6 +13,7 @@
 913nd.dieti-natura.es
 a.20minutes.fr
 a.mobify.com
+a.o2u.jp
 a.tovarro.com
 a8ht.hipp.fr
 aa.avvo.com
@@ -90,6 +91,7 @@ analytics.21cn.com
 analytics.30m.com
 analytics.aasaam.com
 analytics.adfreetime.com
+analytics.agoda.com
 analytics.allovoisins.com
 analytics.amakings.com
 analytics.anvato.net
@@ -98,6 +100,7 @@ analytics.archive.org
 analytics.arz.at
 analytics.atomiconline.com
 analytics.audioeye.com
+analytics.audionow.de
 analytics.avanser.com.au
 analytics.aweber.com
 analytics.belgacom.be
@@ -130,6 +133,7 @@ analytics.eip.telegraph.co.uk
 analytics.epi.es
 analytics.fairfax.com.au
 analytics.favcy.com
+analytics.footballdb.com
 analytics.foresee.com
 analytics.freespee.com
 analytics.gameforge.de
@@ -173,6 +177,7 @@ analytics.ngfiles.com
 analytics.onlyonlinemarketing.com
 analytics.optilead.co.uk
 analytics.orenshmu.com
+analytics.ostr.io
 analytics.paddle.com
 analytics.performable.com
 analytics.photorank.me
@@ -221,6 +226,7 @@ analytics.themarketiq.com
 analytics.thenest.com
 analytics.thenewslens.com
 analytics.thetab.com
+analytics.tiktok.com
 analytics.tio.ch
 analytics.tout.com
 analytics.tradedoubler.com
@@ -271,6 +277,7 @@ asumi.shinobi.jp
 atanx.alicdn.com
 atax.gamermetrics.com
 atax.teamxbox.com
+atconnect.npo.nl
 athenatmpbeacon.theglobeandmail.ca
 atlas.astrology.com
 atm.youku.com
@@ -346,11 +353,13 @@ beacon.www.theguardian.com
 beacon2.indieclick.com
 beacons.brandads.net
 beacons.mediamelon.com
+beagle.prod.tda.link
 beap-bc.yahoo.com
 behave.noen.at
 behave.sn.at
 belicimo.pw
 bench.uc.cn
+bento.agoda.com
 berateveng.ru
 besti.ga
 bglog.bitauto.com
@@ -367,6 +376,7 @@ blip.bizrate.com
 bmcm.ml
 bmcm.pw
 bmnr.pw
+bmrg.reflected.net
 bmst.pw
 bn.adultempire.com
 bnr.alza.cz
@@ -418,6 +428,7 @@ cct2.o2online.de
 cdn-alliancegravity.s3.amazonaws.com
 cdn-analytics.ladmedia.fr
 cdn1.pebx.pl
+cdn5.nextinpact.com
 cdnbigdata.azureedge.net
 cdnstats.tube8.com
 ce.lijit.com
@@ -483,9 +494,11 @@ cmp.dreamlab.pl
 cmp.greenbot.com
 cmp.macworld.co.uk
 cmp.macworld.com
+cmp.osano.com
 cmp.pcworld.co.nz
 cmp.pcworld.com
 cmp.pcworld.idg.com.au
+cmp.tech426.com
 cmp.techadvisor.co.uk
 cmp.techhive.com
 cmstool.youku.com
@@ -551,6 +564,7 @@ cookies.reedbusiness.nl
 cookietracker.cloudapp.net
 cookiex.ngd.yahoo.com
 coolertracks.emailroi.com
+core.unit-sense.net
 count.asnetworks.de
 count.carrierzone.com
 count.channeladvisor.com
@@ -596,6 +610,7 @@ counter.rambler.ru
 counter.rian.ru
 counter.scribblelive.com
 counter.search.bg
+counter.sibnet.ru
 counter.sina.com.cn
 counter.snackly.co
 counter.sparklit.com
@@ -637,6 +652,7 @@ cx.atdmt.com
 cxt.deutsche-bank.de
 d.adrolays.de
 d.finative.eu
+d.ghostery.com
 d.haberler.com
 d.nativendo.de
 d.omsnative.de
@@ -695,6 +711,7 @@ d35u1vg1q28b3w.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d39yds8oe4n4jq.cloudfront.net
 d3a2okcloueqyx.cloudfront.net
+d3cgm8py10hi0z.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
 d3iouejux1os58.cloudfront.net
 d3kyk5bao1crtw.cloudfront.net
@@ -778,6 +795,7 @@ dp.shoprunner.com
 dpm.bluray-disc.de
 ds-aksb-a.akamaihd.net
 ds.haaretz.co.il
+dsg.interia.pl
 dt.nrjmobile.fr
 dt1pxsve3tgas.cloudfront.net
 du4rq1xqh3i1k.cloudfront.net
@@ -796,6 +814,7 @@ dxwgpw0lkcum5.cloudfront.net
 dy2xcjk8s1dbz.cloudfront.net
 dymlo6ffhj97l.cloudfront.net
 dzmxze7hxwn6b.cloudfront.net
+e77lmzbqou0n-a.akamaihd.net
 ea.auchantelecom.fr
 ea.aujourdhui.com
 ea.bouquetnantais.com
@@ -847,12 +866,14 @@ ea.vente-unique.lu
 ea.warnerbros.fr
 ebay.northernhost.com
 eclick.baidu.com
+ecomm.events
 edge.sqweb.com
 edmi.nextinpact.com
 edw.edmunds.com
 eec.crunchyroll.com
 ef.futuroscope.com
 ef.futuroscope.mobi
+eg-p2.eurogamer.net
 ek8.voyage-prive.com
 ekg.riotgames.com
 elr.sfr.fr
@@ -867,6 +888,7 @@ ens.luzernerzeitung.ch
 ens.nzz.ch
 ens.tagblatt.ch
 entryhit.wp.pl
+ep00.epimg.net
 epl.paypal-communication.com
 epro.sogou.com
 eproof.drudgereport.com
@@ -904,6 +926,7 @@ event-reporting-dot-webylytics.appspot.com
 event.api.drift.com
 event.dkb.de
 event.getblue.io
+event.notifier.rakuten.co.jp
 eventapi.libring.com
 eventgateway.soundcloud.com
 eventlog.inspsearchapi.com
@@ -913,6 +936,7 @@ events.air.tv
 events.antenna.is
 events.apester.com
 events.avantisvideo.com
+events.brightline.tv
 events.chaordicsystems.com
 events.demoup.com
 events.godaddy.com
@@ -924,6 +948,7 @@ events.jora.com
 events.jotform.com
 events.medio.com
 events.ocdn.eu
+events.practo.com
 events.privy.com
 events.realgravity.com
 events.reddit.com
@@ -962,11 +987,13 @@ flashstats.libsyn.com
 fog.pixual.co
 footprint.anetwork.ir
 fourmtagservices.appspot.com
+fp.measure.office.com
 fresh.techdirt.com
 frog.wix.com
 fsm.lapresse.ca
 fsz1.francoisesaget.com
 funn.graphiq.com
+fuse.forbes.com
 fusion.bonniertidskrifter.se
 future-fie-assets.co.uk
 future-price.co.uk
@@ -991,6 +1018,7 @@ ga.kvideo.io
 ga.nsimg.net
 ga.webdigi.co.uk
 gak.webtoons.com
+gamesradar-gb.gamesradar.com
 ganon.yahoo.com
 gateway.foresee.com
 gay-hotvideo.net
@@ -999,6 +1027,7 @@ gc.newsweek.com
 gcpdata.telegraph.co.uk
 gdm1.toner.fr
 gekko.spiceworks.com
+geo.6play.fr
 geo.battle.net
 geo.ertya.com
 geo.gorillanation.com
@@ -1008,6 +1037,7 @@ geo.kontagent.net
 geo.metronews.ca
 geo.mezr.com
 geo.mtvnn.com
+geo.nbcsports.com
 geo.play.it
 geo.q5media.net
 geo.xcel.io
@@ -1019,6 +1049,8 @@ geoip.al.com
 geoip.boredpanda.com
 geoip.cleveland.com
 geoip.gulflive.com
+geoip.hmageo.com
+geoip.ifunny.co
 geoip.inquirer.net
 geoip.lehighvalleylive.com
 geoip.masslive.com
@@ -1038,11 +1070,11 @@ gjr5.yoigo.com
 glasgowtimes-gb.glasgowtimes.co.uk
 glassmoni.researchgate.net
 glbdns.microsoft.com
-glean.pop6.com
 glogger.inspcloud.com
 gmonitor.aliimg.com
 gnar.grammarly.com
 go.optifuze.com
+go.techtarget.com
 gobba.myeffect.net
 graftpool.ovh
 gramombird.com
@@ -1107,6 +1139,7 @@ imp-media-lab.thenewslens.com
 imp.ad-plus.cn
 imp.go.sohu.com
 imp.optaim.com
+imp.pvnsolutions.com
 impress.vcita.com
 imx.comedycentral.com
 infinityid.condenastdigital.com
@@ -1121,6 +1154,7 @@ intellecthosting.net
 intelli.ageuk.org.uk
 intent.cbsi.com
 intg.snapchat.com
+invite.leanlab.co
 invitejs.trustpilot.com
 ip.breitbart.com
 ip.pichunter.com
@@ -1163,10 +1197,12 @@ licensing.bitmovin.com
 lift.acquia.com
 lilb2.shutterstock.com
 link.informer.com
+link.kogan.com
 link.subscribe.ru
 linkpuls.idg.no
 links.boom.ge
 links.voyeurweb.com
+literally-analytics.appspot.com
 live.cxo.name
 live.ec2.cxo.name
 livecounter.theyosh.nl
@@ -1239,7 +1275,6 @@ logs-api.shoprunner.com
 logs-qos.tf1.fr
 logs.51cto.com
 logs.dashlane.com
-logs.datadoghq.com
 logs.gaana.com
 logs.ggweb.nl
 logs.hotstar.com
@@ -1251,9 +1286,11 @@ logstat.caixin.com
 logx.mtime.cn
 logx.mtime.com
 logx.optimizely.com
+lore.circulate.com
 loxodo-analytics.ext.nile.works
 lslmetrics.djlmgdigital.com
 lt.tritondigital.com
+lucid.mjhassoc.com
 lunametrics.wpengine.netdna-cdn.com
 m.lolvsdota.cn
 m.trb.com
@@ -1282,6 +1319,7 @@ merlin.abc.go.com
 met.vgwort.de
 metric-agent.i10c.net
 metric.inetcore.com
+metric.ipv6test.net
 metric.nwsource.com
 metrics-api.librato.com
 metrics.apartments.com
@@ -1322,6 +1360,7 @@ mmi.bemobile.ua
 mmm.carbuyer.co.uk
 mmm.theweek.co.uk
 mms.al.com
+mms.blick.ch
 mms.cbslocal.com
 mms.cleveland.com
 mms.cloudpro.co.uk
@@ -1420,6 +1459,7 @@ oxifwsabgd.nzz.ch
 p-log.ykimg.com
 p.adbrn.com
 p.aty.sohu.com
+p.eyebuydirect-cmr.net
 p.gazeta.pl
 p.milliyet.com.tr
 p.pagesjaunes.fr
@@ -1429,11 +1469,13 @@ p.yotpo.com
 page-events-ustats.udemy.com
 pageinfo.motorsport.com
 pages-stats.rbl.ms
+pagesense-collect.zoho.com
 pagesocket.glam.com
 pam.nextinpact.com
 pampopholf.com
 pap.zalando.de
 partner.cynapse.com
+partner.permutive.app
 partner.worldoftanks.com
 partners.badongo.com
 partners.mysavings.com
@@ -1500,6 +1542,7 @@ pixel.naij.com
 pixel.newscgp.com
 pixel.newscred.com
 pixel.newsdiscover.com.au
+pixel.parsely.com
 pixel.pcworld.com
 pixel.propublica.org
 pixel.prosieben.de
@@ -1581,6 +1624,7 @@ ra.ripple6.com
 radar.imgsmail.ru
 ramp.purch.com
 rand.com.ru
+rat.rakuten.co.jp
 rbc.magna.ru
 rc.rlcdn.com
 rcgi.video.qq.com
@@ -1599,6 +1643,8 @@ referer.pixplug.in
 referrer.disqus.com
 rek.www.wp.pl
 rel.msn.com
+rel.nextinpact.com
+rel2.nextinpact.com
 rem-track.bild.de
 report-zt.allmusic.com
 report.meituan.com
@@ -1634,7 +1680,9 @@ rta2.metro.co.uk
 rtb.connatix.com
 rtn.thestar.com
 rtt.campanja.com
+rum.conde.io
 rum.marquardmedia.hu
+rum.minutemediaservices.com
 rum.nccgroup-webperf.com
 rv.modanisa.com
 rva.outbrain.com
@@ -1653,6 +1701,7 @@ sa.sky.it
 sa.squareup.com
 sa.tf1.fr
 sa135.macworld.co.uk
+sa135.wsbtv.com
 sal.isanook.com
 sana.newsinc.com.s3.amazonaws.com
 sat.sanoma.fi
@@ -1671,6 +1720,7 @@ scribe.twitter.com
 scripts.psyma.com
 sdrive.skoda-auto.com
 secure-stat.canal-plus.com
+secure.merchantadvantage.com
 securite.01net.com
 seg.sharethis.com
 sem.triboomedia.it
@@ -1678,14 +1728,15 @@ serv1swork.com
 servedby.o2.co.uk
 service-stat.tbn.ru
 service4refresh.info
+services.hmhost.co.uk
 servicetick.com
 session-tracker.badcreditloans.com
 session.timecommerce.net
 sftrack.searchforce.net
 sgmnt.ticketswap.com
 sgphctileh-a.akamaihd.net
-sgqcvfjvr.onet.pl
 shared.65twenty.com
+shopmetric.rediff.com
 shrek.6.cn
 sidebar.issuu.com
 sig.atdmt.com
@@ -1702,6 +1753,9 @@ snr4.canalplus.com
 somniture.theglobeandmail.com
 soodatmish.com
 soso.mymederback.com
+sourcepoint-mms.aetv.com
+sourcepoint-mms.history.com
+sourcepoint-mms.mylifetime.com
 sourcepoint.vice.com
 sp-mms.weather.com
 sp.app.com
@@ -1928,9 +1982,11 @@ stats.digg.com
 stats.digital-natives.de
 stats.dnaindia.com
 stats.edicy.com
+stats.extremetech.com
 stats.eyeviewdigital.com
 stats.fd.nl
 stats.fittkaumaass.de
+stats.fomo.com
 stats.frankfurterneuepresse.de
 stats.fs.com
 stats.geegain.com
@@ -2044,6 +2100,7 @@ t.a3cloud.net
 t.adlpo.com
 t.allmodern.com
 t.appsflyer.com
+t.av.st
 t.beopinion.com
 t.bimvid.com
 t.birchlane.com
@@ -2103,6 +2160,7 @@ tag.rightmessage.com
 tag.rmp.rakuten.com
 tag.sonymusic.com
 tag.triboomedia.it
+tagger.ope.scmp.com
 tagger.opecloud.com
 taglocker.target.com
 tagm.tchibo.de
@@ -2149,8 +2207,10 @@ teralog.techhub.co.kr
 tesla.oscaro.com
 testcddc.atclouddev.net
 tf.360.cn
+theargus-gb.theargus.co.uk
 thenational-gb.thenational.scot
 thetradedesk-tags.s3.amazonaws.com
+tim.nextinpact.com
 timeslogtn.timesnow.tv
 timestrends.indiatimes.com
 timestrends.timesnow.tv
@@ -2159,7 +2219,6 @@ tk.storetail.io
 tkpi.delta.com
 tl.tradetracker.net
 tlp5.mimale.com
-tm.jsuol.com.br
 tm.tradetracker.net
 tm.uol.com.br
 tm.vendemore.com
@@ -2183,7 +2242,6 @@ tp.deawm.com
 tp.ranker.com
 tpa7.iahorro.com
 tpx.tesseradigital.com
-tr.api.itmedia.jp
 tr.bt.matrixspa.it
 tr.cloud-media.fr
 tr.connatix.com
@@ -2232,6 +2290,7 @@ track.mopo.de
 track.mycliplister.com
 track.netzero.net
 track.ning.com
+track.noddus.com
 track.omg2.com
 track.omgpl.com
 track.pnicnik.live
@@ -2404,6 +2463,7 @@ tracking.rightmessage.com
 tracking.rtl.de
 tracking.s24.com
 tracking.searchmarketing.com
+tracking.shopstyle.com
 tracking.shoptogether.buy.com
 tracking.softwareprojects.com
 tracking.sokrati.com
@@ -2456,6 +2516,7 @@ trk.flazio.com
 trk.freepik.com
 trk.m.libero.it
 trk.sele.co
+trk.techtarget.com
 trk.vindicosuite.com
 trowel.twitch.tv
 tru.webelapp.com
@@ -2465,13 +2526,17 @@ ts.faz.net
 ts.rtl.de
 ts.tradetracker.net
 tsj0.madeindesign.com
+ttauri.creativebloq.com
 ttauri.laptopmag.com
 ttauri.livescience.com
+ttauri.loudersound.com
 ttauri.tomsguide.com
 ttauri.tomshardware.com
+ttauri.whathifi.com
 ttdetect.staticimgfarm.com
 tvl8.supdecreation.com
 tw.i.hulu.com
+twch.20min.ch
 txn.grabnetworks.com
 txn.thenewsroom.com
 ubt.berlingskemedia.net
@@ -2493,6 +2558,7 @@ urtracker.q-sis.de
 useg.nextdigital.com.hk
 user-metrics.onthemarket.com
 userfly.com
+users.techtarget.com
 usersegment.wpdigital.net
 utrack.hexun.com
 uue2.destinia.ir
