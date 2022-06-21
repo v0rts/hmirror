@@ -81,6 +81,7 @@ bluzelle.one
 bluzelle.pro
 bluzelle.promo
 bluzelle.site
+boredapeyachtclub.app
 breadtokenapp.com
 bricklblock.io
 byzantiumfork.com
@@ -121,9 +122,20 @@ coinrbase.com
 coinswallet.info
 coniomi.com
 contribute-status.im
+convexfinance.org
 cryptoalliance.herokuapp.com
 cryptoinsidenews.com
 cryptokitties.com
+curve.fm
+curve.frl
+curve.fyi
+curve.si
+curve.so
+curvefi.io
+curves.exchange
+curves.fi
+curwe.fi
+cuvre.financial
 daddi.cloud
 dadi-cloud.net
 daditoken.com
@@ -609,7 +621,6 @@ powerrledger.com
 powrerledger.com
 powrledger.io
 powrrledger.com
-privatex.io
 privatix.live
 privatix.me
 privatix.pro
@@ -785,6 +796,7 @@ tzero.website
 uasfwallet.com
 ubiqcoin.org
 unhackableetherwallets.com
+uniswap.services
 universa.sale
 unlversa.io
 unocoin.company
@@ -1052,6 +1064,7 @@ xn--yetherwallet-dfk.com
 xn--yetherwallet-vjf.com
 xn--yethewallet-iw8ejl.com
 xn--zero-zxb.com
+yearnson.finance
 zeepln.io
 zenprolocol.com
 ziber.io

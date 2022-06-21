@@ -5,7 +5,6 @@
 1.miniporn.ru
 1000zakazov.ru
 123retr312.ru
-1740f665a91b68.com
 1bfc228b50a902db.com
 1k-shop.ru
 1liveinternet.ru
@@ -32,7 +31,6 @@
 2x2.kz
 3lucosy.com
 3under.ru
-42eed1a0d9c129.com
 441555.ru
 468.vologdainfo.ru
 4jiqzr.ru
@@ -82,23 +80,21 @@ ad.iplayer.org
 ad.leongaming.com
 ad.liveburst.com
 ad.minecraft-mods.ru
-ad.nakanune.ru
 ad.namba.net
 ad.starlightmedia.ua
 ad.sweb.ru
 ad.webnext.ru
 ad004.ru
 ad05f.ru
-ad1.sibnet.ru
 ad4xh85llhcbfis8.com
 adbee.com.ua
+adblockmetrics.ru
 adbn.ru
 adbomb.ru
 adcomplete.ru
 addflow.ru
 addisp.com
 adeclc.com
-adfill.me
 adforce.ru
 adfun.ru
 adgamble.net
@@ -115,7 +111,6 @@ adres21.ru
 adru.net
 ads.bid
 ads2rtb.com
-adsclick.ru
 adsellers.net
 adshostnet.com
 adsmeda.com
@@ -125,7 +120,6 @@ adst.biz
 adstock.ru
 adsyst.com
 adsyst.ru
-adtidy.net
 adtime.ru
 adtraff.ru
 adunit.chango.ca
@@ -164,7 +158,6 @@ akabo.ru
 akashy.com
 alemobile.ru
 alexey.blog21.ru
-alfainternet.su
 algenib.ru
 allblog24.ru
 allowac.com
@@ -181,6 +174,7 @@ amigodistrib.ru
 amigone.ru
 amuseer.com
 an.media-active.ru
+analytic.press
 andrak.ru
 annienne.com
 anniere.com
@@ -189,6 +183,7 @@ ant-top.ru
 anti-gemorroy.com
 ap.delfi.ee
 api-keks.com
+api-marketolog.mts.ru
 api.smartadv.ru
 apicloud.ru
 apocence.com
@@ -223,9 +218,9 @@ azartaffiliates.com
 azartplay.casino
 b-one.com.ua
 b.acpr.su
-b.adbox.lv
 b.candy.vl.ru
 b.digital-tv.com.ua
+b.inbox.lv
 b.itvnet.lv
 b.madplace99.com
 b.netall.ru
@@ -242,7 +237,6 @@ banner.osp-ua.info
 banner.ua
 bannerhost.ru
 bannerms54489.com
-banners.kinoafisha.info
 bannuncio.com
 banquant.com
 bans.name
@@ -389,6 +383,7 @@ bs.quadrosystems.ru
 bservis.xyz
 bt1.gutgirl.ru
 budyte-zdorovy.ru
+bugaga.tut.by
 buildbull.ru
 burlyblogs.com
 busncuy4dmiuurl.ru
@@ -416,6 +411,8 @@ carveac.com
 cashimtrap.com
 cashtube.ru
 cbn.ru
+cbrykorvsqihfy.com
+cdn-bk.ligastavok.ru
 cdn-rtb.sape.ru
 cdneurope.com
 cdnport.ru
@@ -458,6 +455,7 @@ clickcoin.com
 clickhere.ru
 clickozavr.com
 clicks.demotivators.to
+clickscloud.net
 clickspay.ru
 clickunderad.com
 clickvip.ru
@@ -475,7 +473,6 @@ coads.akipress.org
 cobrax.ru
 codata.ru
 code.barrior.ru
-code.d-agency.net
 codeextrarich.net
 codemediarich.ru
 codes-media.ru
@@ -533,7 +530,6 @@ cxmolk.com
 cyhtr.com
 cykahax.net
 d.igra-prestoloff.cx
-d18g6t7whf8ejf.cloudfront.net
 d19lkhros9wke.cloudfront.net
 d1af165twk0zgn.cloudfront.net
 d1f5rbi95y1icu.cloudfront.net
@@ -541,11 +537,9 @@ d1p7elpjrt6qav.cloudfront.net
 d1uvhm532ipx9t.cloudfront.net
 d1zfhhmz4n1jvq.cloudfront.net
 d1zk0i9yiryb1j.cloudfront.net
+d24g87zbxr4yiz.cloudfront.net
 d24rtvkqjwgutp.cloudfront.net
 d27jk9dqha8met.cloudfront.net
-d2d8qsxiai9qwj.cloudfront.net
-d2ghscazvn398x.cloudfront.net
-d2glav2919q4cw.cloudfront.net
 d2i5pngfrazn5t.cloudfront.net
 d2oa97wrxvxm7y.cloudfront.net
 d2wl3qmk54t3ha.cloudfront.net
@@ -554,7 +548,6 @@ d30s0lx1onfwyh.cloudfront.net
 d31nb97nd8ha11.cloudfront.net
 d36sxvmjoflc2i.cloudfront.net
 d38dub.ru
-d3c3uihon9kmp.cloudfront.net
 d3c8l61zd5ltf8.cloudfront.net
 d3p2b5qewrnsyv.cloudfront.net
 d3pb9zw46rm6zr.cloudfront.net
@@ -575,7 +568,6 @@ dating-exchange.com
 datropy.com
 davarello.com
 dc173cc1070c2ab16b1d.date
-dc5k8fg5ioc8s.cloudfront.net
 ddomb.com
 defiques.com
 delivery.bannerd.ru
@@ -631,6 +623,7 @@ dozory.goodoo.ru
 dqvpww3nzoeeq.cloudfront.net
 dreadfula.ru
 dreampartners.ru
+driverpack.io
 drlyy.com
 drontres.com
 drp.su
@@ -640,6 +633,7 @@ dutrmedi.ru
 duuw.nm.ru
 dvasub.kipfilms.ru
 dverser.ru
+dw1-msetup.org
 dw1cdf.ru
 dwf6crl4raal7.cloudfront.net
 dyrevnya.ru
@@ -666,6 +660,8 @@ emisses.com
 emnodar.ru
 endocri.ru
 enfreine.com
+engine-bk.ligastavok.ru
+engine-pmbk.ligastavok.ru
 enkonyus.ru
 ensepare.com
 entercash.ru
@@ -681,7 +677,6 @@ ervtm9lrdj.com
 estiques.com
 et-code.ru
 etarg.network
-etcodes.com
 etojackpot.com
 etonews.ru
 etranslater1.com
@@ -743,7 +738,6 @@ flushmviolent.org
 fly-shops.ru
 fmu1qrtjoamc.pro
 fmusive.ru
-foazasis.com
 foreign.dt00.net
 forum.adult-torrent.com
 forum.dwnld.net.ua
@@ -833,6 +827,7 @@ glordd.com
 glows.ru
 glue-length.biz
 gmelvi.ru
+gnezdo.news
 gnezdo.ru
 go.adjika.net
 go.mega-games.org
@@ -991,6 +986,7 @@ ivances.com
 ivanie.com
 ivantat.com
 ixtyted.ru
+jaabeieacddhbdcdf.ru
 jadedi.com
 jbugk.com
 jd01esxhoel.online
@@ -1003,6 +999,7 @@ jkolp.com
 jlzebszkilcz.ru
 jmk1uttboek0.pro
 jmk56rtfove.info
+jmpmedia.info
 jnu1usxpndz0.pro
 jnu9uwxlprf.online
 jokerhaus.moskva-tv.com
@@ -1010,6 +1007,7 @@ jorjfix.ru
 jquery-uim.download
 jrfced.com
 jsc.tovarro.com
+jscdn.yieldbird.com
 jsn.st02.net
 jsutils.net
 jump-wap.com
@@ -1027,10 +1025,12 @@ kick.media
 kimus.ru
 kindblogs.com
 kinemathek.ru
+kinnohoyutd.site
 kino.afisha21.ru
 kinoget.tv
 kinogo.r.worldssl.net
 kinokayf.com
+kinonhoote.site
 kinopromobase.ru
 kinopromobase2.ru
 kires.umk-spo.biz
@@ -1050,7 +1050,6 @@ kolites.com
 kolitter.com
 koluty.com
 korenizsemi.net
-koten.zone
 kotofotto.ru
 koviovius.com
 krab-studio.ru
@@ -1183,7 +1182,6 @@ loadserial.ru
 locandito.com
 locoday.com
 logger.ivi.ru
-loki.maximonline.ru
 loneday.com
 look4file.ru
 looker9.ru
@@ -1228,7 +1226,6 @@ mamypos.com
 managedcollapsed.in
 managermest.ru
 manuelu.com
-marketgid.com
 marketgid.ru
 markhab.ru
 martakava.ru
@@ -1320,7 +1317,6 @@ mirskidok.net
 mmorpgfree.ru
 mo.spaces.ru
 mob2web.com
-mobalert.net
 mobapeople.com
 mobbober.com
 mobidump.com
@@ -1514,8 +1510,8 @@ p2m0001.com
 palandan.com
 para-new.com
 paramedjo.com
+parinamatch.ru
 partner.alfa.kz
-partner.allsoft.ru
 partner.ixi.ua
 partner.pladform.ru
 partners.mobiguru.ru
@@ -1534,7 +1530,6 @@ pcable.ru
 pcads.ru
 pdmayt.com
 pe5avnvi81ed.ru
-pekagames.ru
 people-blog.org
 people-blogs.org
 peoplemobile.ru
@@ -1547,6 +1542,7 @@ pipki.r.worldssl.net
 piroji.com
 pketred.com
 placeoff.ru
+plaff-go.ru
 plapl.ru
 plaster-orto.com
 plastir-hyperost.biz
@@ -1575,7 +1571,6 @@ pop.turnik.su
 popup.relinka.net
 portal-info.org
 portal-peoples.com
-post.rmbn.net
 poulop.com
 povtotse.ru
 pr-inc.biz
@@ -1609,6 +1604,9 @@ proteaser.com
 protrafv2.com
 proxy.dlf.lt
 prozapas.dn.ua
+psma01.com
+psma02.com
+psma03.com
 psnets.com
 ptredir.com
 pu.zipsites.ru
@@ -1659,6 +1657,7 @@ recreativ.com.ua
 redavu.ru
 redirrtosite.com
 ree56vxln.tech
+refpawqpttex.top
 regisg.com
 reklama-cluster.tut.by
 reklamadarom.com
@@ -1701,6 +1700,7 @@ rtbinternet.com
 rtbtraf.com
 rtbweb.com
 rtdns.ru
+rtkrtb.com
 rtmain.com
 ru-tor.biz
 ruad.net
@@ -1760,16 +1760,15 @@ seed.by
 seligers.ru
 senkevich-vk.net
 serdce-volgi.ru
-serg.pics-money.ru
 sergh34ds.com
 serveac.com
 server.adeasy.ru
 server2034.ru
 servidormensseger.hotbox.ru
-serving.plexop.net
 servized.com
 sexshop4ik.ru
 sexshop4ik.ru.swtest.ru
+sexualpitfall.com
 sexvrusko.org
 sheat.ru
 shigopo.ru
@@ -1871,6 +1870,7 @@ taril1.ru
 taril2.ru
 taril3.ru
 tatar.4kazan.ru
+tauptoat.com
 tc.mybb.ru
 td-everest.biz
 tds-banner.do.am
@@ -1889,6 +1889,7 @@ tech5877413.ru
 tech9638514.ru
 tecontx.com
 teeser.ru
+tele.gg
 televisionbomb.com
 terapou.com
 teromil.com
@@ -1944,6 +1945,7 @@ tomobol.com
 tonopole.com
 toolsins.com
 top-info24.ru
+top-js-metrics.top.my.ua
 top-news-bloggers.ru
 top-newsrustoria.ru
 top-rutor.eu
@@ -1965,7 +1967,6 @@ topsmileader.com
 topstory-24.ru
 torrent-rutor.eu
 torrent-rutor.pl
-torrent4game.com
 torrentino-games.net
 torrentino-games.ru
 totrena.ru
@@ -2044,6 +2045,8 @@ ubar-pro4.ru
 ubar.pro
 uchmuk.com
 uclead.com
+ufiler-pro.ru
+ufiler.pro
 ujav.net
 ukrotsel.ru
 ultrabit.ws
@@ -2063,6 +2066,7 @@ usermediaclick.ru
 usimonat.com
 utilient.com
 utilieur.com
+uwams.info
 v.tranzistor-harakteristiki.ru
 v2mljs.org
 v2mlyellow.com
@@ -2075,6 +2079,7 @@ various1down.biz
 vash-doktor24.ru
 vashflebolog.ru
 vast.alloha.tv
+vast.bazonserver.site
 vast.videocdn.tv
 vatizon.com
 vba.ru
@@ -2121,7 +2126,6 @@ vk-traf.ru
 vkmoll.ru
 vkmonster.com
 vmblock.net
-vogo-vogo.ru
 vogodita.com
 vogorita.com
 vogozita.com
@@ -2187,6 +2191,7 @@ woazowup.net
 wogoods.com
 wolf.fan-guf.ru
 womenclick.ru
+womens-journal.ru
 womenset.ru
 work-vseti.com
 worldinform.ru
@@ -2253,7 +2258,6 @@ zee1qzzfnr.site
 zen-test.yandex.ru
 zfvklk.ru
 zhit-zdorovo.com
-zijaipse.com
 zirikoni.com
 zlograd.ru
 zodiac-game.info
