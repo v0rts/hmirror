@@ -2605,7 +2605,9 @@ advice.losebalance.click
 advice.openinvestmentapp.com
 advice.setoffly.click
 advice.sojournly.click
+advice.takeaspill.click
 advice.travelpro.click
+advice.vodkatourism.click
 adviceliving.com
 advicesaales.com
 advicessmax.com
@@ -6182,6 +6184,7 @@ bendini.tk
 bendonabendo.xyz
 benefacto.ru
 beneficialreactive.site
+benefit.catchfoot.click
 benefit.celebrationapp.click
 benefit.openinvestmentapp.com
 benefit.runlightly.click
@@ -9220,6 +9223,7 @@ catbegemot.ru
 catbirdmedia.com
 catcasinostyle.ru
 catch12345.tk
+catchfoot.click
 catchmamo.ga
 catdogmail.live
 catedsi.tk
@@ -30155,6 +30159,7 @@ molda.com
 moldesmti.com
 moldura888.com
 molecadamail.pw
+molecule.ink
 mollyhome.net
 molman.top
 molms.com
