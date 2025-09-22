@@ -4861,6 +4861,7 @@ aip.actonservice.com
 air-weigh.actonservice.com
 aircuity.actonservice.com
 airefcoinc.actonservice.com
+airplanecoffee.com
 aivali.openapp.link
 ajbeqy.delfi.lt
 ajgkdt.eazy.de
@@ -15354,6 +15355,7 @@ iddu1vvb7sk8-a.akamaihd.net
 ideadevice.actonservice.com
 ideas.nanawall.com
 identification.hotmart.com
+identitypxl.app
 idg1.idgarages.com
 idgptg.esm-computer.de
 idhtm.bb.com.br
@@ -35684,6 +35686,7 @@ thaqyl.mediamarkt.nl
 thebasiccompanies.actonservice.com
 thebdx.actonservice.com
 thebigvan.com
+thebrainybulb.com
 thecea.actonservice.com
 thecrazychili.com
 thefishstops.com
