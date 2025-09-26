@@ -4242,6 +4242,7 @@ accuride.actonservice.com
 accutrain.actonservice.com
 accuzip.actonservice.com
 accwww9.53kf.com
+acebunny.com
 acelogger.heraldcorp.com
 acemetrics.aaa.com
 acemetrix.actonservice.com
@@ -8636,6 +8637,7 @@ clients.belairdirect.com
 clients.hermes-investment.com
 clients.intact.ca
 clients.nbc-insurance.ca
+climbingright.com
 cliquelead.com
 clk.entry.surala.jp
 clk.glam-print.com
@@ -40111,6 +40113,7 @@ we.kurly.com
 wealth.informabi.com
 wealthcarecapital.actonservice.com
 weare.ballymoregroup.com
+web-beacon.starii-rover.com
 web-ivcbrasil-tag.s3.us-west-2.amazonaws.com
 web-perf.booking.com
 web-trace.ksapisrv.com
