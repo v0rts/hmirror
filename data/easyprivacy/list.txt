@@ -10477,6 +10477,7 @@ data.umfrage.blau.de
 data.umfrage.nettokom.de
 data.umfrage.whatsappsim.de
 data.vdi-wissensforum.de
+data.vevor.com
 data.vinsolutions.com
 data.volksfreund.de
 data.voyager.dev.cjmadobe.com
@@ -26642,6 +26643,7 @@ rum-ingress-coralogix.com
 rum.api.intuit.com
 rum.azion.com
 rum.azioncdn.net
+rum.cdnpure.com
 rum.condenastdigital.com
 rum.corewebvitals.io
 rum.cronitor.io
@@ -28171,6 +28173,7 @@ seenvault.com
 seespice.com
 sefkal.openapp.link
 seg.sharethis.com
+segapi.whop.com
 segment-api.inrix.com
 segment.lalr.co
 segmentor.snowfox-ai.com
@@ -35549,6 +35552,7 @@ telemetry.goodlifefitness.com
 telemetry.jivosite.com
 telemetry.marketscope.com
 telemetry.moveworks.com
+telemetry.nav.no
 telemetry.navispherecarrier.com
 telemetry.owenscorning.com
 telemetry.phenixrts.com
@@ -38906,6 +38910,7 @@ u.getgoose.com
 u.landing.ni.com
 u.salony.com
 u0crsrah75fy.camberlion.com
+u1sdata.webullfintech.com
 u299.libelle-lekker.be
 u46.pnc.com
 u652.myplainview.com
